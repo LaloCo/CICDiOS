@@ -15,6 +15,7 @@
 			dependencies = (
 			);
 			name = AppCenter;
+			productName = AppCenter;
 		};
 /* End PBXAggregateTarget section */
 
@@ -55,7 +56,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		069603B7C887C06050381C7510B9DCA4 /* Pods_RetirementCalculatorTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RetirementCalculatorTests.framework; path = "Pods-RetirementCalculatorTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		069603B7C887C06050381C7510B9DCA4 /* Pods_RetirementCalculatorTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RetirementCalculatorTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A1AA5828054D736231CEEF8FA04816F /* Pods-RetirementCalculatorUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RetirementCalculatorUITests-umbrella.h"; sourceTree = "<group>"; };
 		0FEE3158F605D495B08188F7525FD262 /* AppCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenter.framework; path = "AppCenter-SDK-Apple/iOS/AppCenter.framework"; sourceTree = "<group>"; };
 		11D5D18913DC72CADFBCCF78753364FB /* Pods-RetirementCalculator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RetirementCalculator.modulemap"; sourceTree = "<group>"; };
@@ -63,7 +64,7 @@
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3B059178CC186DF73652980A9826ADDD /* Pods-RetirementCalculatorUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RetirementCalculatorUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		42D9A6D205214EE3E34BBD3A45FD4D9F /* Pods-RetirementCalculatorUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RetirementCalculatorUITests-dummy.m"; sourceTree = "<group>"; };
-		487ADF0C8DB2AA250D25B372B62E3D9C /* Pods_RetirementCalculator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RetirementCalculator.framework; path = "Pods-RetirementCalculator.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		487ADF0C8DB2AA250D25B372B62E3D9C /* Pods_RetirementCalculator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RetirementCalculator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		48C35340F541AC533C0C4232F5B4B56B /* Pods-RetirementCalculatorUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RetirementCalculatorUITests.release.xcconfig"; sourceTree = "<group>"; };
 		54E0AEC30EA4DE2A78FB9761717F8A54 /* Pods-RetirementCalculatorUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RetirementCalculatorUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		56D138F4DDDE2488E28C0297430C51FF /* Pods-RetirementCalculator-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RetirementCalculator-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -71,12 +72,12 @@
 		7E6536046F24D90F715D36F571B4C219 /* Pods-RetirementCalculatorUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RetirementCalculatorUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		87517B44BEEA38F81E8D97C7836957ED /* Pods-RetirementCalculatorTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RetirementCalculatorTests-Info.plist"; sourceTree = "<group>"; };
 		9A58D754CDB629AE14EDA0AA309C4F82 /* Pods-RetirementCalculator-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RetirementCalculator-acknowledgements.markdown"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A4604A7F08C34467A9D5FAD420463279 /* Pods-RetirementCalculatorTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RetirementCalculatorTests.modulemap"; sourceTree = "<group>"; };
 		A8D10E17A8A0427D2F0F78E719816423 /* Pods-RetirementCalculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RetirementCalculator.debug.xcconfig"; sourceTree = "<group>"; };
 		AC7CD1C412745CB23A2ED0C2A6D486EF /* AppCenterAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterAnalytics.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterAnalytics.framework"; sourceTree = "<group>"; };
 		AE146D4DBF4FCFD24A5C97DDB506616D /* AppCenter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AppCenter.xcconfig; sourceTree = "<group>"; };
-		B617C2FAF1201F6BCAF5B5767010684F /* Pods_RetirementCalculatorUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RetirementCalculatorUITests.framework; path = "Pods-RetirementCalculatorUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B617C2FAF1201F6BCAF5B5767010684F /* Pods_RetirementCalculatorUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RetirementCalculatorUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC51647DDD629880EEB0749E3BC0FB85 /* Pods-RetirementCalculator-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RetirementCalculator-Info.plist"; sourceTree = "<group>"; };
 		C6D3E0475702CE57C064FBD1872B621F /* Pods-RetirementCalculatorTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RetirementCalculatorTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C6E17EDC9A3A1F2ACED702D9BDD7E940 /* Pods-RetirementCalculator-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RetirementCalculator-umbrella.h"; sourceTree = "<group>"; };
@@ -126,7 +127,6 @@
 				C8A998CC47F12DC073FCF1059B8647DE /* Crashes */,
 				74E1E2013DA1AE0DE4601FBBD8CE0FFA /* Support Files */,
 			);
-			name = AppCenter;
 			path = AppCenter;
 			sourceTree = "<group>";
 		};
