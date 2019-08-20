@@ -22,6 +22,14 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        if MSCrashes.hasCrashedInLastSession() {
+            let alert = UIAlertController(title: "Oops", message: "Sorry about that, an error occured.", preferredStyle: .alert)
+            alert.addAction(UIAlertAction(title: "It's cool", style: .default, handler: nil))
+            self.present(alert, animated: true, completion: nil)
+        }
+    }
 
     @IBAction func calculateButton_TouchUpInside(_ sender: Any) {
         MSCrashes.generateTestCrash()
