@@ -8,6 +8,7 @@
 
 import UIKit
 import AppCenterCrashes
+import AppCenterAnalytics
 
 class ViewController: UIViewController {
 
@@ -29,10 +30,13 @@ class ViewController: UIViewController {
             alert.addAction(UIAlertAction(title: "It's cool", style: .default, handler: nil))
             self.present(alert, animated: true, completion: nil)
         }
+        
+        MSAnalytics.trackEvent("navigated_to_calculator")
     }
 
     @IBAction func calculateButton_TouchUpInside(_ sender: Any) {
-        MSCrashes.generateTestCrash()
+        // MSCrashes.generateTestCrash()
+        MSAnalytics.trackEvent("calculate_retirement_amount")
     }
     
 }
