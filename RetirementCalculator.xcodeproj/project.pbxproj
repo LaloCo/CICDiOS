@@ -51,6 +51,48 @@
 		6DBC1B85231085BA00130CF8 /* libswiftVision.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B4F2310859900130CF8 /* libswiftVision.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		6DBC1B86231085BA00130CF8 /* libswiftWatchKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B4D2310859900130CF8 /* libswiftWatchKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		6DBC1B87231085BA00130CF8 /* libswiftXCTest.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B462310859900130CF8 /* libswiftXCTest.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B89231087DD00130CF8 /* libswiftAccelerate.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B5A2310859A00130CF8 /* libswiftAccelerate.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B8A231087DD00130CF8 /* libswiftARKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B3F2310859900130CF8 /* libswiftARKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B8B231087DD00130CF8 /* libswiftAssetsLibrary.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B522310859A00130CF8 /* libswiftAssetsLibrary.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B8C231087DD00130CF8 /* libswiftAVFoundation.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B5C2310859A00130CF8 /* libswiftAVFoundation.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B8D231087DD00130CF8 /* libswiftCallKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B3B2310859900130CF8 /* libswiftCallKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B8E231087DD00130CF8 /* libswiftCloudKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B452310859900130CF8 /* libswiftCloudKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B8F231087DD00130CF8 /* libswiftContacts.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B3E2310859900130CF8 /* libswiftContacts.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B90231087DD00130CF8 /* libswiftCore.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B412310859900130CF8 /* libswiftCore.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B91231087DD00130CF8 /* libswiftCoreAudio.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B492310859900130CF8 /* libswiftCoreAudio.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B92231087DD00130CF8 /* libswiftCoreData.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B3C2310859900130CF8 /* libswiftCoreData.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B93231087DD00130CF8 /* libswiftCoreFoundation.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B472310859900130CF8 /* libswiftCoreFoundation.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B94231087DD00130CF8 /* libswiftCoreGraphics.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B502310859A00130CF8 /* libswiftCoreGraphics.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B95231087DD00130CF8 /* libswiftCoreImage.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B592310859A00130CF8 /* libswiftCoreImage.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B96231087DD00130CF8 /* libswiftCoreLocation.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B382310859800130CF8 /* libswiftCoreLocation.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B97231087DD00130CF8 /* libswiftCoreMedia.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B542310859A00130CF8 /* libswiftCoreMedia.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B98231087DD00130CF8 /* libswiftDarwin.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B3D2310859900130CF8 /* libswiftDarwin.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B99231087DD00130CF8 /* libswiftDispatch.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B362310859800130CF8 /* libswiftDispatch.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B9A231087DD00130CF8 /* libswiftFoundation.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B512310859A00130CF8 /* libswiftFoundation.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B9B231087DD00130CF8 /* libswiftGameplayKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B532310859A00130CF8 /* libswiftGameplayKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B9C231087DD00130CF8 /* libswiftGLKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B3A2310859900130CF8 /* libswiftGLKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B9D231087DD00130CF8 /* libswiftHomeKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B392310859900130CF8 /* libswiftHomeKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B9E231087DD00130CF8 /* libswiftIntents.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B372310859800130CF8 /* libswiftIntents.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1B9F231087DD00130CF8 /* libswiftMapKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B482310859900130CF8 /* libswiftMapKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA0231087DD00130CF8 /* libswiftMediaPlayer.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B582310859A00130CF8 /* libswiftMediaPlayer.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA1231087DD00130CF8 /* libswiftMetal.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B4E2310859900130CF8 /* libswiftMetal.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA2231087DD00130CF8 /* libswiftMetalKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B402310859900130CF8 /* libswiftMetalKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA3231087DD00130CF8 /* libswiftModelIO.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B572310859A00130CF8 /* libswiftModelIO.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA4231087DD00130CF8 /* libswiftNaturalLanguage.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B422310859900130CF8 /* libswiftNaturalLanguage.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA5231087DD00130CF8 /* libswiftNetwork.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B5D2310859A00130CF8 /* libswiftNetwork.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA6231087DD00130CF8 /* libswiftObjectiveC.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B4A2310859900130CF8 /* libswiftObjectiveC.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA7231087DD00130CF8 /* libswiftos.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B552310859A00130CF8 /* libswiftos.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA8231087DD00130CF8 /* libswiftPhotos.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B4B2310859900130CF8 /* libswiftPhotos.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BA9231087DD00130CF8 /* libswiftQuartzCore.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B342310859800130CF8 /* libswiftQuartzCore.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BAA231087DD00130CF8 /* libswiftRemoteMirror.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B5B2310859A00130CF8 /* libswiftRemoteMirror.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BAB231087DD00130CF8 /* libswiftSceneKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B352310859800130CF8 /* libswiftSceneKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BAC231087DD00130CF8 /* libswiftsimd.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B432310859900130CF8 /* libswiftsimd.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BAD231087DD00130CF8 /* libswiftSpriteKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B4C2310859900130CF8 /* libswiftSpriteKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BAE231087DD00130CF8 /* libswiftSwiftOnoneSupport.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B562310859A00130CF8 /* libswiftSwiftOnoneSupport.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BAF231087DD00130CF8 /* libswiftUIKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B442310859900130CF8 /* libswiftUIKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BB0231087DD00130CF8 /* libswiftVision.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B4F2310859900130CF8 /* libswiftVision.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BB1231087DD00130CF8 /* libswiftWatchKit.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B4D2310859900130CF8 /* libswiftWatchKit.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		6DBC1BB2231087DD00130CF8 /* libswiftXCTest.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6DBC1B462310859900130CF8 /* libswiftXCTest.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		6DBE681A230ACB7D00B1D469 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBE6819230ACB7D00B1D469 /* AppDelegate.swift */; };
 		6DBE681C230ACB7D00B1D469 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBE681B230ACB7D00B1D469 /* ViewController.swift */; };
 		6DBE681F230ACB7D00B1D469 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DBE681D230ACB7D00B1D469 /* Main.storyboard */; };
@@ -127,6 +169,57 @@
 				6DBC1B85231085BA00130CF8 /* libswiftVision.dylib in CopyFiles */,
 				6DBC1B86231085BA00130CF8 /* libswiftWatchKit.dylib in CopyFiles */,
 				6DBC1B87231085BA00130CF8 /* libswiftXCTest.dylib in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6DBC1B88231087D000130CF8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				6DBC1B89231087DD00130CF8 /* libswiftAccelerate.dylib in CopyFiles */,
+				6DBC1B8A231087DD00130CF8 /* libswiftARKit.dylib in CopyFiles */,
+				6DBC1B8B231087DD00130CF8 /* libswiftAssetsLibrary.dylib in CopyFiles */,
+				6DBC1B8C231087DD00130CF8 /* libswiftAVFoundation.dylib in CopyFiles */,
+				6DBC1B8D231087DD00130CF8 /* libswiftCallKit.dylib in CopyFiles */,
+				6DBC1B8E231087DD00130CF8 /* libswiftCloudKit.dylib in CopyFiles */,
+				6DBC1B8F231087DD00130CF8 /* libswiftContacts.dylib in CopyFiles */,
+				6DBC1B90231087DD00130CF8 /* libswiftCore.dylib in CopyFiles */,
+				6DBC1B91231087DD00130CF8 /* libswiftCoreAudio.dylib in CopyFiles */,
+				6DBC1B92231087DD00130CF8 /* libswiftCoreData.dylib in CopyFiles */,
+				6DBC1B93231087DD00130CF8 /* libswiftCoreFoundation.dylib in CopyFiles */,
+				6DBC1B94231087DD00130CF8 /* libswiftCoreGraphics.dylib in CopyFiles */,
+				6DBC1B95231087DD00130CF8 /* libswiftCoreImage.dylib in CopyFiles */,
+				6DBC1B96231087DD00130CF8 /* libswiftCoreLocation.dylib in CopyFiles */,
+				6DBC1B97231087DD00130CF8 /* libswiftCoreMedia.dylib in CopyFiles */,
+				6DBC1B98231087DD00130CF8 /* libswiftDarwin.dylib in CopyFiles */,
+				6DBC1B99231087DD00130CF8 /* libswiftDispatch.dylib in CopyFiles */,
+				6DBC1B9A231087DD00130CF8 /* libswiftFoundation.dylib in CopyFiles */,
+				6DBC1B9B231087DD00130CF8 /* libswiftGameplayKit.dylib in CopyFiles */,
+				6DBC1B9C231087DD00130CF8 /* libswiftGLKit.dylib in CopyFiles */,
+				6DBC1B9D231087DD00130CF8 /* libswiftHomeKit.dylib in CopyFiles */,
+				6DBC1B9E231087DD00130CF8 /* libswiftIntents.dylib in CopyFiles */,
+				6DBC1B9F231087DD00130CF8 /* libswiftMapKit.dylib in CopyFiles */,
+				6DBC1BA0231087DD00130CF8 /* libswiftMediaPlayer.dylib in CopyFiles */,
+				6DBC1BA1231087DD00130CF8 /* libswiftMetal.dylib in CopyFiles */,
+				6DBC1BA2231087DD00130CF8 /* libswiftMetalKit.dylib in CopyFiles */,
+				6DBC1BA3231087DD00130CF8 /* libswiftModelIO.dylib in CopyFiles */,
+				6DBC1BA4231087DD00130CF8 /* libswiftNaturalLanguage.dylib in CopyFiles */,
+				6DBC1BA5231087DD00130CF8 /* libswiftNetwork.dylib in CopyFiles */,
+				6DBC1BA6231087DD00130CF8 /* libswiftObjectiveC.dylib in CopyFiles */,
+				6DBC1BA7231087DD00130CF8 /* libswiftos.dylib in CopyFiles */,
+				6DBC1BA8231087DD00130CF8 /* libswiftPhotos.dylib in CopyFiles */,
+				6DBC1BA9231087DD00130CF8 /* libswiftQuartzCore.dylib in CopyFiles */,
+				6DBC1BAA231087DD00130CF8 /* libswiftRemoteMirror.dylib in CopyFiles */,
+				6DBC1BAB231087DD00130CF8 /* libswiftSceneKit.dylib in CopyFiles */,
+				6DBC1BAC231087DD00130CF8 /* libswiftsimd.dylib in CopyFiles */,
+				6DBC1BAD231087DD00130CF8 /* libswiftSpriteKit.dylib in CopyFiles */,
+				6DBC1BAE231087DD00130CF8 /* libswiftSwiftOnoneSupport.dylib in CopyFiles */,
+				6DBC1BAF231087DD00130CF8 /* libswiftUIKit.dylib in CopyFiles */,
+				6DBC1BB0231087DD00130CF8 /* libswiftVision.dylib in CopyFiles */,
+				6DBC1BB1231087DD00130CF8 /* libswiftWatchKit.dylib in CopyFiles */,
+				6DBC1BB2231087DD00130CF8 /* libswiftXCTest.dylib in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -394,6 +487,7 @@
 				6DBE6831230ACB7F00B1D469 /* Sources */,
 				6DBE6832230ACB7F00B1D469 /* Frameworks */,
 				6DBE6833230ACB7F00B1D469 /* Resources */,
+				6DBC1B88231087D000130CF8 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -732,6 +826,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QG384SYFG6;
 				INFOPLIST_FILE = RetirementCalculator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -751,6 +846,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QG384SYFG6;
 				INFOPLIST_FILE = RetirementCalculator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
