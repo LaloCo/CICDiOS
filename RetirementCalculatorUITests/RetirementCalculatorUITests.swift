@@ -67,7 +67,7 @@ class RetirementCalculatorUITests: XCTestCase {
             app.buttons["Calculate retirement amount"].tap()
             
             let resultText = app.staticTexts.element(matching: .any, identifier: "resultLabel")
-            let result = "If you save $100.0 every month for 35 years, and invest that money plus your current investment of $1000.0 at a 3.0% anual interest rate, you will have $246467878.4603446 by the time you are 65."
+            let result = "If you save $100.0 every month for 35 years, and invest that money plus your current investment of $1000.0 at a 3.0% anual interest rate, you will have $246467878.4603446 by the time you are 65 years old."
             XCTAssertEqual(resultText.label, result)
         }
     }
