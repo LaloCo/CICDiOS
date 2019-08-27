@@ -37,7 +37,7 @@ class ViewController: UIViewController {
     func calculateRetirementAmount(current_age: Int, retirement_age : Int, monthly_investment: Float, current_savings: Float, interest_rate: Float) -> Double {
         let months_until_retirement = (retirement_age - current_age) * 12
         
-        var retirement_amount = Double(current_savings) * pow(Double(1+interest_rate/100), Double(months_until_retirement))
+        var retirement_amount = Double(current_savings) * pow(Double(1+interest_rate/100/12), Double(months_until_retirement))
         
         for i in 1...months_until_retirement {
             let monthly_rate = interest_rate / 100 / 12
